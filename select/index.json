@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "two Lies",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T19:27:10.042538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "two Lies",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_two_Lies_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "two Lies",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_two_Lies_UVERworld.txt"
+    }
+  ]
+}
